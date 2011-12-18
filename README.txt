@@ -10,6 +10,3 @@
 #
 # For usage info:
 # ./udgrep.pl -h
-#
-# To do:
-# It's a secret.
